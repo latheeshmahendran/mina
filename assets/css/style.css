@@ -1981,3 +1981,17 @@ body .body-overlay {
         top: 0;
     }
 }
+
+/* Custome styles LAZ */
+.bloglinks{
+    color: var(--primary_color);
+}
+.bloglinks:hover{
+    color: #178f55;
+}
+.head-bloglinks{
+    margin-bottom: 10px;
+}
+.head-bloglinks:hover{
+    color: rgb(196, 196, 196) !important;
+}
