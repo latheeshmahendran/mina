@@ -664,7 +664,7 @@ main.drake-main {
     max-width: 485px;
     width: 100%;
     border-radius: 30px;
-    border: 1px solid #565656;
+    border: 1px solid var(--primary_color);
     position: fixed;
     left: 20px;
     top: 50%;
